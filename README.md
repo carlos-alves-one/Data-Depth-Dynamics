@@ -1,8 +1,8 @@
 
-# Project Name: DataDepth Dynamics
+# Project Name: Data Depth Dynamics
 
 ## Project Overview
-DataDepth Dynamics is a comprehensive data analysis project focusing on the exploration of underwater sonar signals and financial credit default risk. Utilizing machine learning algorithms and data science techniques, this project aims to classify sonar signals and predict credit default risks accurately.
+Data Depth Dynamics is a comprehensive data analysis project exploring underwater sonar signals and financial credit default risk. This project uses machine learning algorithms and data science techniques to classify sonar signals and accurately predict credit default risks.
 
 ## Datasets
 The project utilizes four main datasets:
@@ -30,7 +30,7 @@ project_root/
 ```
 
 ## Getting Started
-To get started with DataDepth Dynamics, follow these steps:
+To get started with Data Depth Dynamics, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Jupyter Notebook or JupyterLab installed to run the `.ipynb` files.
@@ -54,10 +54,10 @@ To get started with DataDepth Dynamics, follow these steps:
 - seaborn
 
 ## Contributing
-We welcome contributions to the DataDepth Dynamics project. Please read `CONTRIBUTING.md` for more information on how to get involved (Note: You will need to create a CONTRIBUTING.md file detailing how others can contribute to your project).
+We welcome contributions to the Data Depth Dynamics project. 
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details (Note: You should choose a license appropriate for your project and include it in your repository).
+This project is licensed under the MIT License - see the `LICENSE` file for details 
 
 ## Contact
-For any queries or further discussion, please contact project_owner@example.com.
+For any queries or further discussion, please contact carlos.alves.one@gmail.com.
